@@ -4,7 +4,7 @@ First of all the path of the dataset files should be like:
 that is the files should be stored in a folder named 'Project1_Data', which further has a folder named data inside which all the csv files are stored.
 
 <h2>What's the project about</h2>
-This prject aims to do a comphrehensive exploratory data analysis on the education dataset of the universities in United-States from the year 2010-2020.<br>
+This prject aims to do a comphrehensive <b>exploratory data analysis</b> on the education dataset of the universities in United-States from the year 2010-2020.<br>
 It aims to answer the question on why Tier-2 universities lag behind their Tier-1 counterparts and what steps can they take to bridge the gap.
 <br>
 For the purpose of this project the top Universities have been selected from the QS World University Ranking List<br>
