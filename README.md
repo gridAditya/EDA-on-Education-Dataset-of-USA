@@ -9,9 +9,24 @@ It aims to answer the question on why Tier-2 universities lag behind their Tier-
 <br>
 For the purpose of this project the top Universities have been selected from the QS World University Ranking List<br>
 We have Selected 15 top-tier universities for analysis purpose.<br>
-'Massachusetts Institute of Technology(#1)', 'Harvard University(#2)', 'Stanford University(#3)', 'University of Pennsylvania(#6)', 'California Institute of Technology(#8)', <br>
-'Princeton University(#10)', 'Johns Hopkins University(#12)', 'Northwestern University(#16)', 'University of Texas at Austin(#19)', 'Brown University(#23)'<br>
-'Duke University(#18)', 'Georgia Institute of Technology-Main Campus(#26)', 'University of Florida(#38)', 'Dartmouth College(#45)', 'Vanderbilt University(#49)', <br><br>
+<ul>
+<li>Massachusetts Institute of Technology(#1)</li>
+<li>Harvard University(#2)</li>
+<li>Stanford University(#3)</li>
+<li>University of Pennsylvania(#6)</li>
+<li>California Institute of Technology(#8)</li>
+<li>Princeton University(#10)</li>
+<li>Johns Hopkins University(#12)</li>
+<li>Northwestern University(#16)</li>
+<li>University of Texas at Austin(#19)</li>
+<li>Brown University(#23)</li>
+<li>Duke University(#18)</li>
+<li>Georgia Institute of Technology-Main Campus(#26)</li>
+<li>University of Florida(#38)</li>
+<li>Dartmouth College(#45)</li>
+<li>Vanderbilt University(#49)</li>,
+</ul>
+<br><br>
 
 For Tier-2 I have just searched for the name of some good Tier-2 institutes over the web like in quora
 The 15 Tier-2 Universities selected are:<br>
