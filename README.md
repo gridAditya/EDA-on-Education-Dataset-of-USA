@@ -3,8 +3,9 @@ First of all the path of the dataset files should be like:
 '../Project1_Data/data/MERGED2000_01_PP.csv'
 that is the files should be stored in a folder named 'Project1_Data', which further has a folder named data inside which all the csv files are stored.
 
-<h2>Bridging the Gap Between Tier-1 and Tier-2 Universities</h2>
-This prject aims to do a comphrehensive analysis on why Tier-2 universities lag behind their Tier-1 counterparts and what steps can they take to bridge the gap.
+<h2>What's the project about</h2>
+This prject aims to do a comphrehensive exploratory data analysis on the education dataset of the universities in United-States from the year 2010-2020.<br>
+It aims to answer the question on why Tier-2 universities lag behind their Tier-1 counterparts and what steps can they take to bridge the gap.
 <br>
 For the purpose of this project the top Universities have been selected from the QS World University Ranking List<br>
 We have Selected 15 top-tier universities for analysis purpose.<br>
