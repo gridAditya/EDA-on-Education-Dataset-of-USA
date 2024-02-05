@@ -1,7 +1,7 @@
 <h2>Where should the csv's be stored?</h2>
 First of all the path of the dataset files should be like:
 '../Project1_Data/data/MERGED2000_01_PP.csv'
-that is the files should be stored in a folder named 'Project1_Data', which further has a folder named data inside which all the csv files are stored.
+that is the files should be stored in a folder named 'Project1_Data', which further has a folder named data inside which all the csv files are stored.<br>
 The '../Project1_Data' indicates that 'Project1_Data' folder should be one directory back relative to the folder in which you store/run the 'inst3.ipynb'
 <h2>Requirements</h2>
 <ul>
