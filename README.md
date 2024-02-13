@@ -14,7 +14,7 @@ The '../Project1_Data' indicates that 'Project1_Data' folder should be one direc
 <h2>What's the project about</h2>
 This prject aims to do a comphrehensive <b>exploratory data analysis</b> on the education dataset of the universities in United-States from the year 2010-2020.<br>
 It aims to answer the question on why the disparity between Ivy-League Plus colleges and non-Ivy League Plus Colleges is bad for students, why non-Ivy League Plus universities lag behind their Ivy-League-Plus counterparts and what steps can they take to bridge the gap.
-<br>
+<br><br>
 For the purpose of this project the top Universities have been selected from the QS World University Ranking List<br>
 We have Selected 10 Ivy League-Plus institutes for analysis purpose.<br>
 <ul>
