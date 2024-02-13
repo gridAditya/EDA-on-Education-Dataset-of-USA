@@ -21,7 +21,7 @@ We have Selected 10 Ivy League-Plus institutes for analysis purpose.<br>
   <li>Massachusetts Institute of Technology(#1)</li>
   <li>Harvard University(#2)</li>
   <li>Stanford University(#3)</li>
-  <li>University of Pennsylvania(#6)</li>-
+  <li>University of Pennsylvania(#6)</li>
   <li>Princeton University(#10)</li>
   <li>Johns Hopkins University(#12)</li>
   <li>Northwestern University(#16)</li>
