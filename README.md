@@ -25,8 +25,8 @@ We have Selected 10 Ivy League-Plus institutes for analysis purpose.<br>
   <li>Princeton University(#10)</li>
   <li>Johns Hopkins University(#12)</li>
   <li>Northwestern University(#16)</li>
-  <li>Brown University(#23)</li>
   <li>Duke University(#18)</li>
+  <li>Brown University(#23)</li>
   <li>Washington University in St Louis(#36)</li>
 </ul>
 <br><br>
